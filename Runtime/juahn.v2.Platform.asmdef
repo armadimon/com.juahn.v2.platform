@@ -1,0 +1,7 @@
+{
+  "name": "juahn.v2.Platform",
+  "rootNamespace": "Juahn.V2.Platform",
+  "references": [],
+  "noEngineReferences": true,
+  "autoReferenced": true
+}

@@ -1,0 +1,11 @@
+{
+  "name": "com.juahn.v2.platform",
+  "displayName": "Juahn V2 Platform",
+  "version": "0.1.0",
+  "unity": "6000.0",
+  "author": "armadimon",
+  "license": "MIT",
+  "type": "library",
+  "description": "Vendor-independent analytics, rewarded-ad, authentication and purchase contracts.",
+  "dependencies": {}
+}
